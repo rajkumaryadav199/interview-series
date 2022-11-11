@@ -1,0 +1,4 @@
+
+const ADD_DATA="ADD_DATA"
+
+const GET_DATA="GET_DATA"
